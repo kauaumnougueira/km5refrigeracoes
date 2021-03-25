@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="favicon/favicon.ico" type="image/x-icon">
+
+    <title>Km5 Rfrigerações</title>
+</head>
+<body>
+   <h1>KM5 REFRIGERAÇÕES LTDA, NÓS CUIDAMOS DO SEU CLIMA <img src="imagens/arcon.png" alt="arcon"></h1>
+   <hr> 
+  <img src="imagens/km5logo.jpg.png" alt="Logo Km5">
+   <h2>Como entrar em contato:</h2>
+   <ul type="circle">
+       <li><a href="#x1F596" target="_blank" rel="external">Instagram</a></li>
+       <li><a href="#x1F596" target="_blank" rel="external">Facebook</a></li>
+       <li><a href="https://br.linkedin.com/in/mark-aur%C3%A9luo-032139197" target="_blank" rel="external">linkedin</a></li>
+       <li><a href="https://outlook.live.com/mail/0/inbox" target="_blank" rel="external">E-mail</a></li>
+   </ul>
+   <h2>Telefones:</h2>
+   <ul type="circle">
+       <li>(98)9-8715-9661 (OI)</li>
+       <li>(98)9-8852-6719 (OI)</li>
+       <li>(98)9-8402-6672 (Claro)</li>
+   </ul>
+</body>
+</html>
